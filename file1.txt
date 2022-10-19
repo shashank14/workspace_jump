@@ -1,3 +1,4 @@
 hello file1
------------
-New line added 
+this is new line
+this is file three
+
