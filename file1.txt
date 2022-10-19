@@ -1,7 +1,9 @@
+hello file1
+hello file1
+hello file1
+hello file1
+hello file1
+this is new line
+this is file three
+***********
 
-hello file1
-hello file1
-hello file1
-hello file1
-hello file1
-hello file1
